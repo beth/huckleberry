@@ -10,13 +10,20 @@ Desktop:
 
 <img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-desktop.png" style="" />
 
-Tablet:
+Desktop Actual:
+<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-desktop-actual.png" style="" />
 
-<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-tablet.png" style="max-width: 400px;" />
+Tablet:
+<img alt="Tablet-sized screenshot of an agency landing page" src="./docs/huckleberry-tablet.png" style="max-width: 400px;" />
+
+Tablet Actual:
+<img alt="Tablet-sized screenshot of an agency landing page" src="./docs/huckleberry-tablet-actual.png" style="max-width: 400px;" />
 
 Mobile:
+<img alt="Mobile-sized screenshot of an agency landing page" src="./docs/huckleberry-mobile.png" style="max-width: 300px;" />
 
-<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-mobile.png" style="max-width: 300px;" />
+Mobile Actual:
+<img alt="Mobile-sized screenshot of an agency landing page" src="./docs/huckleberry-mobile-actual.png" style="max-width: 300px;" />
 
 ## Setup Instructions
 
